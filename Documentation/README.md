@@ -10,7 +10,7 @@ SimuWare is a virtual platform that enables users to assemble physical component
     3. [Definitions and Abbreviations](#Definitions-and-Abbreviation)  
 2. [Overall Description](#overall-description)
     1. [Product Perspective](#Product-Perspective)
-    2. [ Product Functions](# Product-Functions)
+    2. [ Product Functions](#Product-Functions)
     3. [User Characteristics](#user-characteristics)
     4. [Constraints](#constraints)
     5. [Assumptions and Dependencies](#assumptions-and-dependencies)
