@@ -5,18 +5,17 @@ SimuWare is a virtual platform that enables users to assemble physical component
 
 ## Table of Contents
 1. [Introduction](#introduction)
+    1. [Purpose](#Purpose)
+    2. [Scope](#Scope)
+    3. [Definitions and Abbreviations](#Definitions-and-Abbreviation)  
 2. [Overall Description](#overall-description)
-3. [User Characteristics](#user-characteristics)
-4. [Constraints](#constraints)
-5. [Assumptions and Dependencies](#assumptions-and-dependencies)
-6. [Specific Requirements](#specific-requirements)
-    1. [Adding, Connecting, and Moving Objects](#adding-connecting-and-moving-objects)
-    2. [Executing Arduino Code](#executing-arduino-code)
-    3. [Using Arduino Objects to Interact with Other Objects](#using-arduino-objects-to-interact-with-other-objects)
-    4. [Physics Simulation](#physics-simulation)
-7. [Usage](#usage)
-8. [Directory Structure](#directory-structure)
-9. [References](#references)
+    1. [Product Perspective](#Product-Perspective)
+    2. [ Product Functions](# Product-Functions)
+    3. [User Characteristics](#user-characteristics)
+    4. [Constraints](#constraints)
+    5. [Assumptions and Dependencies](#assumptions-and-dependencies)
+3. [Specific Requirements](#specific-requirements)
+4. [References](#references)
 
 ## 1. Introduction
 ### 1.1 Purpose
@@ -91,3 +90,7 @@ SimuWare aims to provide an educational and prototyping tool for simulation enth
 
 ### 3.4 User shall be able to do PHYSICS-SIMULATION on the OBJECT
 - The software shall be able to simulate objects in real time.
+
+## 4.References
+- [Arduino GitHub Repository] (https://github.com/arduino)
+- [Unreal Engine] (https://www.unrealengine.com/en-US)
