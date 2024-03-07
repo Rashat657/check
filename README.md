@@ -23,7 +23,7 @@ The purpose of our software (SimuWare) is to provide a virtual platform that ena
 
 ### Scope
 - #### Goals
--- SimuWare will feature a user-friendly interface for selecting, placing, and connecting components within a virtual environment.
+- SimuWare will feature a user-friendly interface for selecting, placing, and connecting components within a virtual environment.
 -- Users will also be able to simulate the behavior of assembled components.
 
 #### Benefits
