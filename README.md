@@ -1,4 +1,3 @@
-# check
 # SimuWare
 - Unreal Engine - version 4.27.2
 
@@ -11,7 +10,7 @@ SimuWare is a virtual platform that enables users to assemble physical component
     3. [Definitions and Abbreviations](#Definitions-and-Abbreviations)  
 2. [Overall Description](#overall-description)
     1. [Product Perspective](#Product-Perspective)
-    2. [ Product Functions](#Product-Functions)
+    2. [ Product Functions](# Product-Functions)
     3. [User Characteristics](#user-characteristics)
     4. [Constraints](#constraints)
     5. [Assumptions and Dependencies](#assumptions-and-dependencies)
@@ -34,7 +33,7 @@ The purpose of our software (SimuWare) is to provide a virtual platform that ena
 ### 1.3 Definitions and Abbreviations
 
 
-## 2. Overall Description
+## 2.Overall Description
 ### 2.1 Product Perspective
 This product aims to provide a rapid-prototyping environment for circuits and micro-controller based simulations. This will enable users to test their prototypes within our software without building them in real life. As a result, they will not have to do many hit-and-tries and waste their precious costly components.
 
