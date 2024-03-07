@@ -33,7 +33,7 @@ The purpose of our software (SimuWare) is to provide a virtual platform that ena
 ### 1.3 Definitions and Abbreviations
 
 
-## 2.Overall Description
+## 2. Overall Description
 ### 2.1 Product Perspective
 This product aims to provide a rapid-prototyping environment for circuits and micro-controller based simulations. This will enable users to test their prototypes within our software without building them in real life. As a result, they will not have to do many hit-and-tries and waste their precious costly components.
 
@@ -91,6 +91,6 @@ SimuWare aims to provide an educational and prototyping tool for simulation enth
 ### 3.4 User shall be able to do PHYSICS-SIMULATION on the OBJECT
 - The software shall be able to simulate objects in real time.
 
-## 4.References
+## 4. References
 - [Arduino GitHub Repository] (https://github.com/arduino)
 - [Unreal Engine] (https://www.unrealengine.com/en-US)
