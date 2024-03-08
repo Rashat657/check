@@ -17,7 +17,7 @@ SimuWare is a virtual platform that enables users to assemble physical component
 3. [Specific Requirements](#specific-requirements)
 4. [References](#references)
 
-## [Introduction](../main/Documentation)
+## [Introduction](../Documentation/doc1.md)
 ### Purpose
 The purpose of our software (SimuWare) is to provide a virtual platform that enables users to assemble physical and electrical components in a 3D game-like environment and to simulate their interactions. SimuWare aims to provide an educational and prototyping tool for simulation enthusiasts, students, educators, and researchers.
 
